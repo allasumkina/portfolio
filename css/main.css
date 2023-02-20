@@ -1,4 +1,4 @@
-@import "/reset.css";
+@import "reset.css";
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Lato:wght@300&family=Poppins:wght@400;500;700&display=swap');
 
 /*
@@ -175,7 +175,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 background-color: var(--dark-bg);
-background-image: url('/image/Abstract.png');
+background-image: url('../image/Abstract.png');
 background-repeat: no-repeat;
 background-size: auto;
 background-position: center center;
